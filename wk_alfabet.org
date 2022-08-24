@@ -1,0 +1,547 @@
+#+PROPERTY: ANKI_DECK WK-Alfabet
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Alfabet
+:END:
+** Alfabet
+*** b
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304865165
+:END:
+**** Front
+[[file:alfabet/b.png]]
+**** Back
+b
+*** c
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304866632
+:END:
+**** Front
+[[file:alfabet/c.png]]
+**** Back
+c
+*** d
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304868091
+:END:
+**** Front
+[[file:alfabet/d.png]]
+**** Back
+d
+*** f
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304869616
+:END:
+**** Front
+[[file:alfabet/f.png]]
+**** Back
+f
+*** g
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304871065
+:END:
+**** Front
+[[file:alfabet/g.png]]
+**** Back
+g
+*** h
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304872508
+:END:
+**** Front
+[[file:alfabet/h.png]]
+**** Back
+h
+*** j
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304874020
+:END:
+**** Front
+[[file:alfabet/j.png]]
+**** Back
+j
+*** k
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304875590
+:END:
+**** Front
+[[file:alfabet/k.png]]
+**** Back
+k
+*** l
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304877031
+:END:
+**** Front
+[[file:alfabet/l.png]]
+**** Back
+l
+*** m
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304878483
+:END:
+**** Front
+[[file:alfabet/m.png]]
+**** Back
+m
+*** n
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304880018
+:END:
+**** Front
+[[file:alfabet/n.png]]
+**** Back
+n
+*** p
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304881517
+:END:
+**** Front
+[[file:alfabet/p.png]]
+**** Back
+p
+*** q
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304882988
+:END:
+**** Front
+[[file:alfabet/q.png]]
+**** Back
+q
+*** r
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304884566
+:END:
+**** Front
+[[file:alfabet/r.png]]
+**** Back
+r
+*** s
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304886017
+:END:
+**** Front
+[[file:alfabet/s.png]]
+**** Back
+s
+*** t
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304887468
+:END:
+**** Front
+[[file:alfabet/t.png]]
+**** Back
+t
+*** v
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304889014
+:END:
+**** Front
+[[file:alfabet/v.png]]
+**** Back
+v
+*** x
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304890662
+:END:
+**** Front
+[[file:alfabet/x.png]]
+**** Back
+x
+*** z
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304892123
+:END:
+**** Front
+[[file:alfabet/z.png]]
+**** Back
+z
+*** a
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304893615
+:END:
+**** Front
+[[file:alfabet/a.png]]
+**** Back
+a
+*** e
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304895216
+:END:
+**** Front
+[[file:alfabet/e.png]]
+**** Back
+e / æ
+*** i
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304896709
+:END:
+**** Front
+[[file:alfabet/i.png]]
+**** Back
+i
+*** o
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304898161
+:END:
+**** Front
+[[file:alfabet/o.png]]
+**** Back
+o / å
+*** u
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304899741
+:END:
+**** Front
+[[file:alfabet/u.png]]
+**** Back
+u
+*** y
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304901266
+:END:
+**** Front
+[[file:alfabet/y.png]]
+**** Back
+y
+*** ø
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304902767
+:END:
+**** Front
+[[file:alfabet/ø.png]]
+**** Back
+ø
+*** ng
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304904365
+:END:
+**** Front
+[[file:alfabet/ng.png]]
+**** Back
+ng
+*** br
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304905844
+:END:
+**** Front
+[[file:alfabet/br.png]]
+**** Back
+br
+*** dr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304907295
+:END:
+**** Front
+[[file:alfabet/dr.png]]
+**** Back
+dr
+*** fr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304908816
+:END:
+**** Front
+[[file:alfabet/fr.png]]
+**** Back
+fr
+*** gr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304910315
+:END:
+**** Front
+[[file:alfabet/gr.png]]
+**** Back
+gr
+*** kr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304911809
+:END:
+**** Front
+[[file:alfabet/kr.png]]
+**** Back
+kr
+*** pr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304913265
+:END:
+**** Front
+[[file:alfabet/pr.png]]
+**** Back
+pr
+*** tr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304914785
+:END:
+**** Front
+[[file:alfabet/tr.png]]
+**** Back
+tr
+*** vr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304916245
+:END:
+**** Front
+[[file:alfabet/vr.png]]
+**** Back
+vr
+*** ft
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304917765
+:END:
+**** Front
+[[file:alfabet/ft.png]]
+**** Back
+ft
+*** sk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304919365
+:END:
+**** Front
+[[file:alfabet/sk_skj_sj.png]]
+**** Back
+sk / skj / sj
+*** sl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304920865
+:END:
+**** Front
+[[file:alfabet/sl.png]]
+**** Back
+sl
+*** sm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304922342
+:END:
+**** Front
+[[file:alfabet/sm.png]]
+**** Back
+sm
+*** sn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304923891
+:END:
+**** Front
+[[file:alfabet/sn.png]]
+**** Back
+sn
+*** sp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304925388
+:END:
+**** Front
+[[file:alfabet/sp.png]]
+**** Back
+sp
+*** st
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304926891
+:END:
+**** Front
+[[file:alfabet/st.png]]
+**** Back
+st
+*** sv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304928490
+:END:
+**** Front
+[[file:alfabet/sv.png]]
+**** Back
+sv
+*** skr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304929984
+:END:
+**** Front
+[[file:alfabet/skr.png]]
+**** Back
+skr
+*** spr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304931541
+:END:
+**** Front
+[[file:alfabet/spr.png]]
+**** Back
+spr
+*** str
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304932987
+:END:
+**** Front
+[[file:alfabet/str.png]]
+**** Back
+str
+*** mp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304934562
+:END:
+**** Front
+[[file:alfabet/mp.png]]
+**** Back
+mp
+*** mb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304936090
+:END:
+**** Front
+[[file:alfabet/mb.png]]
+**** Back
+mb
+*** tv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304937565
+:END:
+**** Front
+[[file:alfabet/tv.png]]
+**** Back
+tv
+*** kv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304939088
+:END:
+**** Front
+[[file:alfabet/kv.png]]
+**** Back
+kv
+*** skv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304940582
+:END:
+**** Front
+[[file:alfabet/skv.png]]
+**** Back
+skv
+*** tj
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304942040
+:END:
+**** Front
+[[file:alfabet/tj.png]]
+**** Back
+tj
+*** gl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304943617
+:END:
+**** Front
+[[file:alfabet/gl.png]]
+**** Back
+gl
+*** tl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304945116
+:END:
+**** Front
+[[file:alfabet/tl.png]]
+**** Back
+tl
+*** skl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304946615
+:END:
+**** Front
+[[file:alfabet/skl.png]]
+**** Back
+skl
+*** spl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304948188
+:END:
+**** Front
+[[file:alfabet/spl.png]]
+**** Back
+spl
+*** nd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304949645
+:END:
+**** Front
+[[file:alfabet/nd.png]]
+**** Back
+nd
+*** rd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304951091
+:END:
+**** Front
+[[file:alfabet/rd.png]]
+**** Back
+rd
+*** ei
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304952609
+:END:
+**** Front
+[[file:alfabet/ei_ai_øy.png]]
+**** Back
+ei / ai / øy
+*** au
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661304954158
+:END:
+**** Front
+[[file:alfabet/au.png]]
+**** Back
+au

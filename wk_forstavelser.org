@@ -1,0 +1,412 @@
+#+PROPERTY: ANKI_DECK WK-Forstavelser
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Forstavelser
+:END:
+** Forstavelser
+*** ab
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661261186086
+:END:
+**** Front
+[[file:forstavelser/ab.png]]
+**** Back
+ab
+*** av
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661261186360
+:END:
+**** Front
+[[file:forstavelser/av.png]]
+**** Back
+av
+*** an
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295780957
+:END:
+**** Front
+[[file:forstavelser/an.png]]
+**** Back
+an
+*** be
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295782330
+:END:
+**** Front
+file:forstavelser/be.png
+**** Back
+be
+*** bi
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295783631
+:END:
+**** Front
+file:forstavelser/bi.png
+**** Back
+bi
+*** dis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295784938
+:END:
+**** Front
+file:forstavelser/dis.png
+**** Back
+dis
+*** eks
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295786310
+:END:
+**** Front
+file:forstavelser/eks.png
+**** Back
+eks
+*** ekstra
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295787608
+:END:
+**** Front
+file:forstavelser/ekstra.png
+**** Back
+ekstra
+*** er
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295788915
+:END:
+**** Front
+file:forstavelser/er.png
+**** Back
+er
+*** etter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295790235
+:END:
+**** Front
+file:forstavelser/etter.png
+**** Back
+etter
+*** for
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295791635
+:END:
+**** Front
+file:forstavelser/for.png
+**** Back
+for
+*** fore
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295792935
+:END:
+**** Front
+file:forstavelser/fore.png
+**** Back
+fore
+*** forut
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295794235
+:END:
+**** Front
+file:forstavelser/forut.png
+**** Back
+forut
+*** fra
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295795590
+:END:
+**** Front
+file:forstavelser/fra.png
+**** Back
+fra
+*** frem fram
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295796915
+:END:
+**** Front
+file:forstavelser/frem_fram.png
+**** Back
+frem / fram
+*** full
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295798215
+:END:
+**** Front
+file:forstavelser/full.png
+**** Back
+full
+*** gjennom
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295799582
+:END:
+**** Front
+file:forstavelser/gjennom.png
+**** Back
+gjennom
+*** hen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295800864
+:END:
+**** Front
+file:forstavelser/hen.png
+**** Back
+hen
+*** i
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295802161
+:END:
+**** Front
+file:forstavelser/i.png
+**** Back
+i
+*** imøte
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295803511
+:END:
+**** Front
+file:forstavelser/imøte.png
+**** Back
+imøte
+*** inn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295804815
+:END:
+**** Front
+file:forstavelser/inn.png
+**** Back
+inn
+*** inne
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295806061
+:END:
+**** Front
+file:forstavelser/inne.png
+**** Back
+inne
+*** innen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295807460
+:END:
+**** Front
+file:forstavelser/innen.png
+**** Back
+innen
+*** inter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295808761
+:END:
+**** Front
+file:forstavelser/inter.png
+**** Back
+inter
+*** kon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295810055
+:END:
+**** Front
+file:forstavelser/kon.png
+**** Back
+kon
+*** kontra
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295811435
+:END:
+**** Front
+file:forstavelser/kontra.png
+**** Back
+kontra
+*** mellom
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295812758
+:END:
+**** Front
+file:forstavelser/mellom.png
+**** Back
+mellom
+*** mis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295814061
+:END:
+**** Front
+file:forstavelser/mis.png
+**** Back
+mis
+*** mot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295815336
+:END:
+**** Front
+file:forstavelser/mot.png
+**** Back
+mot
+*** ob
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295816741
+:END:
+**** Front
+file:forstavelser/ob.png
+**** Back
+ob
+*** opp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295818036
+:END:
+**** Front
+file:forstavelser/opp.png
+**** Back
+opp
+*** over oven
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295819338
+:END:
+**** Front
+file:forstavelser/over_oven.png
+**** Back
+over / oven
+*** på
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295820708
+:END:
+**** Front
+file:forstavelser/på.png
+**** Back
+på
+*** sam samme sammen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295822015
+:END:
+**** Front
+file:forstavelser/sam_samme_sammen.png
+**** Back
+sam / samme / sammen
+*** sub
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295823286
+:END:
+**** Front
+file:forstavelser/sub.png
+**** Back
+sub
+*** tilbake
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295824704
+:END:
+**** Front
+file:forstavelser/tilbake.png
+**** Back
+tilbake
+*** u
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295826011
+:END:
+**** Front
+file:forstavelser/u.png
+**** Back
+u
+*** under
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295827312
+:END:
+**** Front
+file:forstavelser/under.png
+**** Back
+under
+*** uni
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295828685
+:END:
+**** Front
+file:forstavelser/uni.png
+**** Back
+uni
+*** unn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295829981
+:END:
+**** Front
+file:forstavelser/unn.png
+**** Back
+unn
+*** ut
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295831266
+:END:
+**** Front
+file:forstavelser/ut.png
+**** Back
+ut
+*** ute
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295832636
+:END:
+**** Front
+file:forstavelser/ute.png
+**** Back
+ute
+*** uten
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295833935
+:END:
+**** Front
+file:forstavelser/uten.png
+**** Back
+uten
+*** van
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295835263
+:END:
+**** Front
+file:forstavelser/van.png
+**** Back
+van
+*** ved
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661295836636
+:END:
+**** Front
+file:forstavelser/ved.png
+**** Back
+ved
