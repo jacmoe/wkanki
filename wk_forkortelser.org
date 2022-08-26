@@ -580,7 +580,7 @@ hvorledes
 **** Front
 [[file:forkortelser/64.png]]
 **** Back
-i, det
+i, idet
 *** 65
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
