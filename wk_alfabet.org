@@ -147,7 +147,7 @@ Alfabet
 
 [[file:alfabet/q.png]]
 **** Back
-q
+q, kv
 *** r
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -191,7 +191,7 @@ Alfabet
 
 [[file:alfabet/v.png]]
 **** Back
-v
+v, w
 *** x
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -544,17 +544,6 @@ Alfabet
 [[file:alfabet/tv.png]]
 **** Back
 tv
-*** kv
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1661304939088
-:END:
-**** Front
-Alfabet
-
-[[file:alfabet/kv.png]]
-**** Back
-kv
 *** skv
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
