@@ -46,7 +46,7 @@ an
 **** Front
 Forstavelser
 
-file:forstavelser/be.png
+[[file:forstavelser/be.png]]
 **** Back
 be
 *** bi
@@ -57,7 +57,7 @@ be
 **** Front
 Forstavelser
 
-file:forstavelser/bi.png
+[[file:forstavelser/bi.png]]
 **** Back
 bi
 *** dis
@@ -68,7 +68,7 @@ bi
 **** Front
 Forstavelser
 
-file:forstavelser/dis.png
+[[file:forstavelser/dis.png]]
 **** Back
 dis
 *** eks
@@ -79,7 +79,7 @@ dis
 **** Front
 Forstavelser
 
-file:forstavelser/eks.png
+[[file:forstavelser/eks.png]]
 **** Back
 eks
 *** ekstra
@@ -90,7 +90,7 @@ eks
 **** Front
 Forstavelser
 
-file:forstavelser/ekstra.png
+[[file:forstavelser/ekstra.png]]
 **** Back
 ekstra
 *** er
@@ -101,7 +101,7 @@ ekstra
 **** Front
 Forstavelser
 
-file:forstavelser/er.png
+[[file:forstavelser/er.png]]
 **** Back
 er
 *** etter
@@ -112,7 +112,7 @@ er
 **** Front
 Forstavelser
 
-file:forstavelser/etter.png
+[[file:forstavelser/etter.png]]
 **** Back
 etter
 *** for
@@ -123,7 +123,7 @@ etter
 **** Front
 Forstavelser
 
-file:forstavelser/for.png
+[[file:forstavelser/for.png]]
 **** Back
 for
 *** fore
@@ -134,7 +134,7 @@ for
 **** Front
 Forstavelser
 
-file:forstavelser/fore.png
+[[file:forstavelser/fore.png]]
 **** Back
 fore
 *** forut
@@ -145,7 +145,7 @@ fore
 **** Front
 Forstavelser
 
-file:forstavelser/forut.png
+[[file:forstavelser/forut.png]]
 **** Back
 forut
 *** fra
@@ -156,7 +156,7 @@ forut
 **** Front
 Forstavelser
 
-file:forstavelser/fra.png
+[[file:forstavelser/fra.png]]
 **** Back
 fra
 *** frem fram
@@ -167,7 +167,7 @@ fra
 **** Front
 Forstavelser
 
-file:forstavelser/frem_fram.png
+[[file:forstavelser/frem_fram.png]]
 **** Back
 frem / fram
 *** full
@@ -178,7 +178,7 @@ frem / fram
 **** Front
 Forstavelser
 
-file:forstavelser/full.png
+[[file:forstavelser/full.png]]
 **** Back
 full
 *** gjennom
@@ -189,7 +189,7 @@ full
 **** Front
 Forstavelser
 
-file:forstavelser/gjennom.png
+[[file:forstavelser/gjennom.png]]
 **** Back
 gjennom
 *** hen
@@ -200,7 +200,7 @@ gjennom
 **** Front
 Forstavelser
 
-file:forstavelser/hen.png
+[[file:forstavelser/hen.png]]
 **** Back
 hen
 *** i
@@ -211,7 +211,7 @@ hen
 **** Front
 Forstavelser
 
-file:forstavelser/i.png
+[[file:forstavelser/i.png]]
 **** Back
 i
 *** imøte
@@ -222,7 +222,7 @@ i
 **** Front
 Forstavelser
 
-file:forstavelser/imøte.png
+[[file:forstavelser/imøte.png]]
 **** Back
 imøte
 *** inn
@@ -233,7 +233,7 @@ imøte
 **** Front
 Forstavelser
 
-file:forstavelser/inn.png
+[[file:forstavelser/inn.png]]
 **** Back
 inn
 *** inne
@@ -244,7 +244,7 @@ inn
 **** Front
 Forstavelser
 
-file:forstavelser/inne.png
+[[file:forstavelser/inne.png]]
 **** Back
 inne
 *** innen
@@ -255,7 +255,7 @@ inne
 **** Front
 Forstavelser
 
-file:forstavelser/innen.png
+[[file:forstavelser/innen.png]]
 **** Back
 innen
 *** inter
@@ -266,7 +266,7 @@ innen
 **** Front
 Forstavelser
 
-file:forstavelser/inter.png
+[[file:forstavelser/inter.png]]
 **** Back
 inter
 *** kon
@@ -277,7 +277,7 @@ inter
 **** Front
 Forstavelser
 
-file:forstavelser/kon.png
+[[file:forstavelser/kon.png]]
 **** Back
 kon
 *** kontra
@@ -288,7 +288,7 @@ kon
 **** Front
 Forstavelser
 
-file:forstavelser/kontra.png
+[[file:forstavelser/kontra.png]]
 **** Back
 kontra
 *** mellom
@@ -299,7 +299,7 @@ kontra
 **** Front
 Forstavelser
 
-file:forstavelser/mellom.png
+[[file:forstavelser/mellom.png]]
 **** Back
 mellom
 *** mis
@@ -310,7 +310,7 @@ mellom
 **** Front
 Forstavelser
 
-file:forstavelser/mis.png
+[[file:forstavelser/mis.png]]
 **** Back
 mis
 *** mot
@@ -321,7 +321,7 @@ mis
 **** Front
 Forstavelser
 
-file:forstavelser/mot.png
+[[file:forstavelser/mot.png]]
 **** Back
 mot
 *** ob
@@ -332,7 +332,7 @@ mot
 **** Front
 Forstavelser
 
-file:forstavelser/ob.png
+[[file:forstavelser/ob.png]]
 **** Back
 ob
 *** opp
@@ -343,7 +343,7 @@ ob
 **** Front
 Forstavelser
 
-file:forstavelser/opp.png
+[[file:forstavelser/opp.png]]
 **** Back
 opp
 *** over oven
@@ -354,7 +354,7 @@ opp
 **** Front
 Forstavelser
 
-file:forstavelser/over_oven.png
+[[file:forstavelser/over_oven.png]]
 **** Back
 over / oven
 *** på
@@ -365,7 +365,7 @@ over / oven
 **** Front
 Forstavelser
 
-file:forstavelser/på.png
+[[file:forstavelser/på.png]]
 **** Back
 på
 *** sam samme sammen
@@ -376,7 +376,7 @@ på
 **** Front
 Forstavelser
 
-file:forstavelser/sam_samme_sammen.png
+[[file:forstavelser/sam_samme_sammen.png]]
 **** Back
 sam / samme / sammen
 *** sub
@@ -387,7 +387,7 @@ sam / samme / sammen
 **** Front
 Forstavelser
 
-file:forstavelser/sub.png
+[[file:forstavelser/sub.png]]
 **** Back
 sub
 *** tilbake
@@ -398,7 +398,7 @@ sub
 **** Front
 Forstavelser
 
-file:forstavelser/tilbake.png
+[[file:forstavelser/tilbake.png]]
 **** Back
 tilbake
 *** u
@@ -409,7 +409,7 @@ tilbake
 **** Front
 Forstavelser
 
-file:forstavelser/u.png
+[[file:forstavelser/u.png]]
 **** Back
 u
 *** under
@@ -420,7 +420,7 @@ u
 **** Front
 Forstavelser
 
-file:forstavelser/under.png
+[[file:forstavelser/under.png]]
 **** Back
 under
 *** uni
@@ -431,7 +431,7 @@ under
 **** Front
 Forstavelser
 
-file:forstavelser/uni.png
+[[file:forstavelser/uni.png]]
 **** Back
 uni
 *** unn
@@ -442,7 +442,7 @@ uni
 **** Front
 Forstavelser
 
-file:forstavelser/unn.png
+[[file:forstavelser/unn.png]]
 **** Back
 unn
 *** ut
@@ -453,7 +453,7 @@ unn
 **** Front
 Forstavelser
 
-file:forstavelser/ut.png
+[[file:forstavelser/ut.png]]
 **** Back
 ut
 *** ute
@@ -464,7 +464,7 @@ ut
 **** Front
 Forstavelser
 
-file:forstavelser/ute.png
+[[file:forstavelser/ute.png]]
 **** Back
 ute
 *** uten
@@ -475,7 +475,7 @@ ute
 **** Front
 Forstavelser
 
-file:forstavelser/uten.png
+[[file:forstavelser/uten.png]]
 **** Back
 uten
 *** van
@@ -486,7 +486,7 @@ uten
 **** Front
 Forstavelser
 
-file:forstavelser/van.png
+[[file:forstavelser/van.png]]
 **** Back
 van
 *** ved
@@ -497,6 +497,6 @@ van
 **** Front
 Forstavelser
 
-file:forstavelser/ved.png
+[[file:forstavelser/ved.png]]
 **** Back
 ved
