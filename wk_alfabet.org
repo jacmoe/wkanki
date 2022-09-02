@@ -147,7 +147,7 @@ Alfabet
 
 [[file:alfabet/q.png]]
 **** Back
-q, kv
+q/kv
 *** r
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -191,7 +191,7 @@ Alfabet
 
 [[file:alfabet/v.png]]
 **** Back
-v, w
+v/w
 *** x
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -235,7 +235,7 @@ Alfabet
 
 [[file:alfabet/e.png]]
 **** Back
-e / æ
+e/æ
 *** i
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -257,7 +257,7 @@ Alfabet
 
 [[file:alfabet/o.png]]
 **** Back
-o / å
+o/å
 *** u
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -411,7 +411,7 @@ Alfabet
 
 [[file:alfabet/sk_skj_sj.png]]
 **** Back
-sk / skj / sj
+sk/skj/sj
 *** sl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -642,7 +642,7 @@ Alfabet
 
 [[file:alfabet/ei_ai_øy.png]]
 **** Back
-ei / ai / øy
+ei/ai/øy
 *** au
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -654,3 +654,14 @@ Alfabet
 [[file:alfabet/au.png]]
 **** Back
 au
+*** ein øyn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1662122835578
+:END:
+**** Front
+Alfabet
+
+[[file:alfabet/ein_øyn.png]]
+**** Back
+ein/øyn
