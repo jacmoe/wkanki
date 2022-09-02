@@ -15,7 +15,7 @@ Forkortelser
 
 [[file:forkortelser/01.png]]
 **** Back
-av / at / å
+av/at/å
 *** 02
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -81,7 +81,7 @@ Forkortelser
 
 [[file:forkortelser/07.png]]
 **** Back
-annen / annet
+annen/annet
 *** 08
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -136,7 +136,7 @@ Forkortelser
 
 [[file:forkortelser/12.png]]
 **** Back
-bestemme / bestemmer / bestemt / bestemmelse
+bestemme, bestemmer, bestemt, bestemmelse
 *** 13
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -158,7 +158,7 @@ Forkortelser
 
 [[file:forkortelser/14.png]]
 **** Back
-bli / blir / blitt
+bli/blir/blitt
 *** 15
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -202,7 +202,7 @@ Forkortelser
 
 [[file:forkortelser/18.png]]
 **** Back
-da / dag
+da/dag
 *** 19
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -213,7 +213,7 @@ Forkortelser
 
 [[file:forkortelser/19.png]]
 **** Back
-de / De , dem / Dem
+de/De , dem/Dem
 *** 20
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -246,7 +246,7 @@ Forkortelser
 
 [[file:forkortelser/22.png]]
 **** Back
-deres / Deres
+deres/Deres
 *** 23
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -323,7 +323,7 @@ Forkortelser
 
 [[file:forkortelser/29.png]]
 **** Back
-en / enn, enhver, ethvert
+en/enn, enhver, ethvert
 *** 30
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -422,7 +422,7 @@ Forkortelser
 
 [[file:forkortelser/38.png]]
 **** Back
-fra, fram / frem
+fra, fram/frem
 *** 39
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -455,7 +455,7 @@ Forkortelser
 
 [[file:forkortelser/41.png]]
 **** Back
-før / føre / fører , først / første
+før/føre/fører, først/første
 *** 42
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -466,7 +466,7 @@ Forkortelser
 
 [[file:forkortelser/42.png]]
 **** Back
-få / får / fått
+få/får/fått
 *** 43
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -488,7 +488,7 @@ Forkortelser
 
 [[file:forkortelser/44.png]]
 **** Back
-gav / ganske
+gav/ganske
 *** 45
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -499,7 +499,7 @@ Forkortelser
 
 [[file:forkortelser/45.png]]
 **** Back
-gi / gir / gitt / gikk
+gi/gir/gitt/gikk
 *** 46
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -521,7 +521,7 @@ Forkortelser
 
 [[file:forkortelser/47.png]]
 **** Back
-gjøre / gjorde / gjort
+gjøre, gjorde, gjort
 *** 48
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -532,7 +532,7 @@ Forkortelser
 
 [[file:forkortelser/48.png]]
 **** Back
-gå / går / gått / god / godt
+gå/går/gått/god/godt
 *** 49
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -554,7 +554,7 @@ Forkortelser
 
 [[file:forkortelser/50.png]]
 **** Back
-ha / har / hatt
+ha/har/hatt
 *** 51
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -609,7 +609,7 @@ Forkortelser
 
 [[file:forkortelser/55.png]]
 **** Back
-her / herr
+her/herr
 *** 56
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
