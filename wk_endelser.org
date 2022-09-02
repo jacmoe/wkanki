@@ -81,7 +81,7 @@ Endelser
 
 [[file:endelser/grafi_grafisk.png]]
 **** Back
-grafi / grafisk
+grafi(sk)
 *** het
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
