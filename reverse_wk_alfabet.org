@@ -1,0 +1,607 @@
+#+PROPERTY: ANKI_DECK WK-Alfabet-Omvendt
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Alfabet
+:END:
+** Alfabet
+*** b
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+b
+**** Back
+[[file:alfabet/b.png]]
+*** c
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+c
+**** Back
+[[file:alfabet/c.png]]
+*** d
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+d
+**** Back
+[[file:alfabet/d.png]]
+*** f
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+f
+**** Back
+[[file:alfabet/f.png]]
+*** g
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+g
+**** Back
+[[file:alfabet/g.png]]
+*** h
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+h
+**** Back
+[[file:alfabet/h.png]]
+*** j
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+j
+**** Back
+[[file:alfabet/j.png]]
+*** k
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+k
+**** Back
+[[file:alfabet/k.png]]
+*** l
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+l
+**** Back
+[[file:alfabet/l.png]]
+*** m
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+m
+**** Back
+[[file:alfabet/m.png]]
+*** n
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+n
+**** Back
+[[file:alfabet/n.png]]
+*** p
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+p
+**** Back
+[[file:alfabet/p.png]]
+*** q
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+q/kv
+**** Back
+[[file:alfabet/q.png]]
+*** r
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+r
+**** Back
+[[file:alfabet/r.png]]
+*** s
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+s
+**** Back
+[[file:alfabet/s.png]]
+*** t
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+t
+**** Back
+[[file:alfabet/t.png]]
+*** v
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+v/w
+**** Back
+[[file:alfabet/v.png]]
+*** x
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+x
+**** Back
+[[file:alfabet/x.png]]
+*** z
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+z
+**** Back
+[[file:alfabet/z.png]]
+*** a
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+a
+**** Back
+[[file:alfabet/a.png]]
+*** e
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+e/æ
+**** Back
+[[file:alfabet/e.png]]
+*** i
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+i
+**** Back
+[[file:alfabet/i.png]]
+*** o
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+o/å
+**** Back
+[[file:alfabet/o.png]]
+*** u
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+u
+**** Back
+[[file:alfabet/u.png]]
+*** y
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+y
+**** Back
+[[file:alfabet/y.png]]
+*** ø
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+ø
+**** Back
+[[file:alfabet/ø.png]]
+*** ng
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+ng
+**** Back
+[[file:alfabet/ng.png]]
+*** br
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+br
+**** Back
+[[file:alfabet/br.png]]
+*** dr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+dr
+**** Back
+[[file:alfabet/dr.png]]
+*** fr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+fr
+**** Back
+[[file:alfabet/fr.png]]
+*** gr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+gr
+**** Back
+[[file:alfabet/gr.png]]
+*** kr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+kr
+**** Back
+[[file:alfabet/kr.png]]
+*** pr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+pr
+**** Back
+[[file:alfabet/pr.png]]
+*** tr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+tr
+**** Back
+[[file:alfabet/tr.png]]
+*** vr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+vr
+**** Back
+[[file:alfabet/vr.png]]
+*** ft
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+ft
+**** Back
+[[file:alfabet/ft.png]]
+*** sk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sk/skj/sj
+**** Back
+[[file:alfabet/sk_skj_sj.png]]
+*** sl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sl
+**** Back
+[[file:alfabet/sl.png]]
+*** sm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sm
+**** Back
+[[file:alfabet/sm.png]]
+*** sn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sn
+**** Back
+[[file:alfabet/sn.png]]
+*** sp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sp
+**** Back
+[[file:alfabet/sp.png]]
+*** st
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+st
+**** Back
+[[file:alfabet/st.png]]
+*** sv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+sv
+**** Back
+[[file:alfabet/sv.png]]
+*** skr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+skr
+**** Back
+[[file:alfabet/skr.png]]
+*** spr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+spr
+**** Back
+[[file:alfabet/spr.png]]
+*** str
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+str
+**** Back
+[[file:alfabet/str.png]]
+*** mp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+mp
+**** Back
+[[file:alfabet/mp.png]]
+*** mb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+mb
+**** Back
+[[file:alfabet/mb.png]]
+*** tv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+tv
+**** Back
+[[file:alfabet/tv.png]]
+*** skv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+skv
+**** Back
+[[file:alfabet/skv.png]]
+*** tj
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+tj
+**** Back
+[[file:alfabet/tj.png]]
+*** gl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+gl
+**** Back
+[[file:alfabet/gl.png]]
+*** tl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+tl
+**** Back
+[[file:alfabet/tl.png]]
+*** skl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+skl
+**** Back
+[[file:alfabet/skl.png]]
+*** spl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+spl
+**** Back
+[[file:alfabet/spl.png]]
+*** nd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+nd
+**** Back
+[[file:alfabet/nd.png]]
+*** rd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+rd
+**** Back
+[[file:alfabet/rd.png]]
+*** ei
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+ei/ai/øy
+**** Back
+[[file:alfabet/ei_ai_øy.png]]
+*** au
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+au
+**** Back
+[[file:alfabet/au.png]]
+*** ein øyn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+ein/øyn
+**** Back
+[[file:alfabet/ein_øyn.png]]

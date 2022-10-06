@@ -1,0 +1,216 @@
+#+PROPERTY: ANKI_DECK WK-Endelser
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Endelser
+:END:
+** Endelser
+*** bar
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297034836
+:END:
+**** Front
+Endelser
+
+[[file:endelser/bar.png]]
+**** Back
+bar
+*** deles
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297036187
+:END:
+**** Front
+Endelser
+
+[[file:endelser/deles.png]]
+**** Back
+deles
+*** dom
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297037511
+:END:
+**** Front
+Endelser
+
+[[file:endelser/dom.png]]
+**** Back
+dom
+*** else
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297038885
+:END:
+**** Front
+Endelser
+
+[[file:endelser/else.png]]
+**** Back
+else
+*** eum ium
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297040188
+:END:
+**** Front
+Endelser
+
+[[file:endelser/eum_ium.png]]
+**** Back
+eum / ium
+*** graf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297041486
+:END:
+**** Front
+Endelser
+
+[[file:endelser/graf.png]]
+**** Back
+graf
+*** grafi grafisk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297042861
+:END:
+**** Front
+Endelser
+
+[[file:endelser/grafi_grafisk.png]]
+**** Back
+grafi(sk)
+*** het
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297044164
+:END:
+**** Front
+Endelser
+
+[[file:endelser/het.png]]
+**** Back
+het
+*** ing ning
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297045483
+:END:
+**** Front
+Endelser
+
+[[file:endelser/ing_ning.png]]
+**** Back
+ing / ning
+*** ring
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297046786
+:END:
+**** Front
+Endelser
+
+[[file:endelser/ring.png]]
+**** Back
+ring
+*** itet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297048186
+:END:
+**** Front
+Endelser
+
+[[file:endelser/itet.png]]
+**** Back
+itet
+*** ledes
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297049462
+:END:
+**** Front
+Endelser
+
+[[file:endelser/ledes.png]]
+**** Back
+ledes
+*** lig entlig
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297050780
+:END:
+**** Front
+Endelser
+
+[[file:endelser/lig_entlig.png]]
+**** Back
+lig / entlig
+*** ment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297052161
+:END:
+**** Front
+Endelser
+
+[[file:endelser/ment.png]]
+**** Back
+ment
+*** sjon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297053461
+:END:
+**** Front
+Endelser
+
+[[file:endelser/sjon.png]]
+**** Back
+sjon
+*** skap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297054761
+:END:
+**** Front
+Endelser
+
+[[file:endelser/skap.png]]
+**** Back
+skap
+*** tisk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297056162
+:END:
+**** Front
+Endelser
+
+[[file:endelser/tisk.png]]
+**** Back
+tisk
+*** ligvis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297057461
+:END:
+**** Front
+Endelser
+
+[[file:endelser/ligvis.png]]
+**** Back
+ligvis
+*** vis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661297058755
+:END:
+**** Front
+Endelser
+
+[[file:endelser/vis.png]]
+**** Back
+vis

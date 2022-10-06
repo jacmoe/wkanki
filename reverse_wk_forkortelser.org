@@ -1,0 +1,1723 @@
+#+PROPERTY: ANKI_DECK WK-Forkortelser
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Forkortelser
+:END:
+** Forkortelser
+*** 01
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353422398
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/01.png]]
+**** Back
+av/at/å
+*** 02
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353423978
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/02.png]]
+**** Back
+aldeles
+*** 03
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353425503
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/03.png]]
+**** Back
+aldri
+*** 04
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353427028
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/04.png]]
+**** Back
+allerede
+*** 05
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353428526
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/05.png]]
+**** Back
+alminnelig
+*** 06
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353430049
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/06.png]]
+**** Back
+alltid
+*** 07
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353431499
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/07.png]]
+**** Back
+annen/annet
+*** 08
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353432979
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/08.png]]
+**** Back
+annerledes
+*** 09
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353434479
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/09.png]]
+**** Back
+andre
+*** 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353436003
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/10.png]]
+**** Back
+anledning
+*** 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353437554
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/11.png]]
+**** Back
+arbeid
+*** 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353439006
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/12.png]]
+**** Back
+bestemme, bestemmer, bestemt, bestemmelse
+*** 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353440500
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/13.png]]
+**** Back
+betingelse
+*** 14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353442028
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/14.png]]
+**** Back
+bli/blir/blitt
+*** 15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353443554
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/15.png]]
+**** Back
+brev
+*** 16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353445003
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/16.png]]
+**** Back
+bruk
+*** 17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353446529
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/17.png]]
+**** Back
+ca.
+*** 18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353447998
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/18.png]]
+**** Back
+da/dag
+*** 19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353449450
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/19.png]]
+**** Back
+de/De , dem/Dem
+*** 20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353450933
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/20.png]]
+**** Back
+den, denne
+*** 21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353452434
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/21.png]]
+**** Back
+der, derfor
+*** 22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353453903
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/22.png]]
+**** Back
+deres/Deres
+*** 23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353455423
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/23.png]]
+**** Back
+dessuten
+*** 24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353456881
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/24.png]]
+**** Back
+dessverre
+*** 25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353458403
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/25.png]]
+**** Back
+det, dette
+*** 26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353459854
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/26.png]]
+**** Back
+disse
+*** 27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353461353
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/27.png]]
+**** Back
+dog
+*** 28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353462878
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/28.png]]
+**** Back
+eller, ellers
+*** 29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353464329
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/29.png]]
+**** Back
+en/enn, enhver, ethvert
+*** 30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353465853
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/30.png]]
+**** Back
+enkel, enkelt
+*** 31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353467376
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/31.png]]
+**** Back
+ennå
+*** 32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353468884
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/32.png]]
+**** Back
+er
+*** 33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353470396
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/33.png]]
+**** Back
+et, etter
+*** 34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353471904
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/34.png]]
+**** Back
+fast
+*** 35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353473370
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/35.png]]
+**** Back
+for, forslag
+*** 36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353474833
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/36.png]]
+**** Back
+forbindelse
+*** 37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353476326
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/37.png]]
+**** Back
+forretning
+*** 38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353477854
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/38.png]]
+**** Back
+fra, fram/frem
+*** 39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353479304
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/39.png]]
+**** Back
+fremdeles
+*** 40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353480778
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/40.png]]
+**** Back
+full
+*** 41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353482241
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/41.png]]
+**** Back
+før/føre/fører, først/første
+*** 42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353483781
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/42.png]]
+**** Back
+få/får/fått
+*** 43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353485306
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/43.png]]
+**** Back
+gang
+*** 44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353486831
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/44.png]]
+**** Back
+gav/ganske
+*** 45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353488280
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/45.png]]
+**** Back
+gi/gir/gitt/gikk
+*** 46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353489808
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/46.png]]
+**** Back
+gjennom
+*** 47
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353491276
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/47.png]]
+**** Back
+gjøre, gjorde, gjort
+*** 48
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353492806
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/48.png]]
+**** Back
+gå/går/gått/god/godt
+*** 49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353494304
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/49.png]]
+**** Back
+grunn
+*** 50
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353495756
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/50.png]]
+**** Back
+ha/har/hatt
+*** 51
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353497278
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/51.png]]
+**** Back
+hadde
+*** 52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353498774
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/52.png]]
+**** Back
+han, ham, hans
+*** 53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353500307
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/53.png]]
+**** Back
+handle, handling
+*** 54
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353501778
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/54.png]]
+**** Back
+hen-
+*** 55
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353503307
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/55.png]]
+**** Back
+her/herr
+*** 56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353504820
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/56.png]]
+**** Back
+holde, forhold
+*** 57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353506329
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/57.png]]
+**** Back
+håpe/hode/hoved, forhåpentlig
+*** 58
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353507829
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/58.png]]
+**** Back
+hurtig/hus
+*** 59
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353509299
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/59.png]]
+**** Back
+hva
+*** 60
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353510779
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/60.png]]
+**** Back
+hver/hvert
+*** 61
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353512236
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/61.png]]
+**** Back
+hvilke, hvilken, hvilket
+*** 62
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353513703
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/62.png]]
+**** Back
+hvor
+*** 63
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353515154
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/63.png]]
+**** Back
+hvorledes
+*** 64
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353516675
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/64.png]]
+**** Back
+i, idet
+*** 65
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353518129
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/65.png]]
+**** Back
+ifølge
+*** 66
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353519658
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/66.png]]
+**** Back
+ingen
+*** 67
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353521178
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/67.png]]
+**** Back
+ikke
+*** 68
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353522704
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/68.png]]
+**** Back
+imidlertid
+*** 69
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353524172
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/69.png]]
+**** Back
+inn
+*** 70
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353525648
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/70.png]]
+**** Back
+intet
+*** 71
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353527103
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/71.png]]
+**** Back
+jeg
+*** 72
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353528580
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/72.png]]
+**** Back
+jord
+*** 73
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353530154
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/73.png]]
+**** Back
+kan, kanskje
+*** 74
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353531603
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/74.png]]
+**** Back
+kjøp/kjøpe, kjøper
+*** 75
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353533057
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/75.png]]
+**** Back
+kom/komme, kommer
+*** 76
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353534581
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/76.png]]
+**** Back
+kort
+*** 77
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353536036
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/77.png]]
+**** Back
+kredit/kreditt/kreditere
+*** 78
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353537504
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/78.png]]
+**** Back
+kunde/kunne
+*** 79
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353538929
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/79.png]]
+**** Back
+kvalitet
+*** 80
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353540448
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/80.png]]
+**** Back
+la/late/lar/latt, lot
+*** 81
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353541928
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/81.png]]
+**** Back
+land
+*** 82
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353543450
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/82.png]]
+**** Back
+likevel, lik(e)så
+*** 83
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353544978
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/83.png]]
+**** Back
+lik(e)som, likeledes
+*** 84
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353546429
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/84.png]]
+**** Back
+man
+*** 85
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353547895
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/85.png]]
+**** Back
+med, med hensyn til
+*** 86
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353549355
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/86.png]]
+**** Back
+meddele
+*** 87
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353550879
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/87.png]]
+**** Back
+meget
+*** 88
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353552350
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/88.png]]
+**** Back
+mellom, imellom
+*** 89
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353553860
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/89.png]]
+**** Back
+mens/mis
+*** 90
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353555329
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/90.png]]
+**** Back
+mot(-)/motta/mottar/mottatt
+*** 91
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353556854
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/91.png]]
+**** Back
+mulig
+*** 92
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353558355
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/92.png]]
+**** Back
+måned/måneder
+*** 93
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353559833
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/93.png]]
+**** Back
+måte
+*** 94
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353561303
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/94.png]]
+**** Back
+noe/noen
+*** 95
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353562853
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/95.png]]
+**** Back
+nær, nærmere, nærmest
+*** 96
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353564378
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/96.png]]
+**** Back
+nødvendig
+*** 97
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353566003
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/97.png]]
+**** Back
+nettopp
+*** 98
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353567529
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/98.png]]
+**** Back
+nå, når
+*** 99
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353569053
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/99.png]]
+**** Back
+og, også
+*** 100
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353570632
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/100.png]]
+**** Back
+ofte
+*** 101
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353572196
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/101.png]]
+**** Back
+om
+*** 102
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353573728
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/102.png]]
+**** Back
+opp
+*** 103
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353575224
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/103.png]]
+**** Back
+oppmerksom på
+*** 104
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353576703
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/104.png]]
+**** Back
+orden, ordne
+*** 105
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353578229
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/105.png]]
+**** Back
+ordning
+*** 106
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353579759
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/106.png]]
+**** Back
+ordre, ordrer
+*** 107
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353581253
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/107.png]]
+**** Back
+over
+*** 108
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353582729
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/108.png]]
+**** Back
+parti
+*** 109
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353584198
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/109.png]]
+**** Back
+pris
+*** 110
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353585729
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/110.png]]
+**** Back
+prosent
+*** 111
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353587251
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/111.png]]
+**** Back
+på, på grunn av
+*** 112
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353588778
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/112.png]]
+**** Back
+punkt
+*** 113
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353590278
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/113.png]]
+**** Back
+regel
+*** 114
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353591746
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/114.png]]
+**** Back
+rigtignok
+*** 115
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353593278
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/115.png]]
+**** Back
+sak
+*** 116
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353594774
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/116.png]]
+**** Back
+sa/sagt, si/sier
+*** 117
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353596258
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/117.png]]
+**** Back
+sam-/samme/sammen
+*** 118
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353597796
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/118.png]]
+**** Back
+sikker/sikkert
+*** 119
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353599254
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/119.png]]
+**** Back
+skal, skulle
+*** 120
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353600797
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/120.png]]
+**** Back
+skjønt
+*** 121
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353602354
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/121.png]]
+**** Back
+skriv/skrive/skriver
+*** 122
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353603878
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/122.png]]
+**** Back
+skrivelse
+*** 123
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353605421
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/123.png]]
+**** Back
+slik/slike
+*** 124
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353606953
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/124.png]]
+**** Back
+slutt
+*** 125
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353608478
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/125.png]]
+**** Back
+snar/snart
+*** 126
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353609954
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/126.png]]
+**** Back
+som
+*** 127
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353611483
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/127.png]]
+**** Back
+sorg, sørge
+*** 128
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353613002
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/128.png]]
+**** Back
+spesiell/spesielt
+*** 129
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353614495
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/129.png]]
+**** Back
+spørre/spørsmål
+*** 130
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353616029
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/130.png]]
+**** Back
+stille, stilling
+*** 131
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353617553
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/131.png]]
+**** Back
+stor/stort, større, størst
+*** 132
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353619075
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/132.png]]
+**** Back
+størrelse
+*** 133
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353620554
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/133.png]]
+**** Back
+svar/svare/svarer
+*** 134
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353622101
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/134.png]]
+**** Back
+særdeles
+*** 135
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353623628
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/135.png]]
+**** Back
+så god/så godt, så meget, så lenge
+*** 136
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353625153
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/136.png]]
+**** Back
+således
+*** 137
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353626622
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/137.png]]
+**** Back
+ta/tar/tatt
+*** 138
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353628131
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/138.png]]
+**** Back
+tid
+*** 139
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353629600
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/139.png]]
+**** Back
+til, tillate
+*** 140
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353631133
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/140.png]]
+**** Back
+tilbake
+*** 141
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353632654
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/141.png]]
+**** Back
+tilbud, tilby
+*** 142
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353634203
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/142.png]]
+**** Back
+tilfreds/tilfredsstille
+*** 143
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353635729
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/143.png]]
+**** Back
+ting
+*** 144
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353637256
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/144.png]]
+**** Back
+tro/tror
+*** 145
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353638775
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/145.png]]
+**** Back
+tvil
+*** 146
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353640302
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/146.png]]
+**** Back
+ung, yngre, yngst
+*** 147
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353641829
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/147.png]]
+**** Back
+under
+*** 148
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353735221
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/148.png]]
+**** Back
+ut, ute, uten
+*** 149
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353643479
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/149.png]]
+**** Back
+vanskelig
+*** 150
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353645026
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/150.png]]
+**** Back
+var, være/vært
+*** 151
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353646554
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/151.png]]
+**** Back
+ved
+*** 152
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353648050
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/152.png]]
+**** Back
+verken
+*** 153
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353649583
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/153.png]]
+**** Back
+visstnok
+*** 154
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353651070
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/154.png]]
+**** Back
+vårt
+*** 155
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353652572
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/155.png]]
+**** Back
+yte, ytre
+*** 156
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1661353654129
+:END:
+**** Front
+Forkortelser
+
+[[file:forkortelser/156.png]]
+**** Back
+ytterligere, ytterst
