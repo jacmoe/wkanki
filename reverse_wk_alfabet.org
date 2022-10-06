@@ -2,7 +2,7 @@
 
 * Wang-Krogdahl
 :PROPERTIES:
-:ANKI_DECK: WK-Alfabet
+:ANKI_DECK: WK-Alfabet-Omvendt
 :END:
 ** Alfabet
 *** b
