@@ -950,7 +950,7 @@ Forkortelser
 
 [[file:forkortelser/86.png]]
 **** Back
-meddele
+med, meddele
 *** 87
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
