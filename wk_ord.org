@@ -1,0 +1,381 @@
+#+PROPERTY: ANKI_DECK WK-Ord
+
+* Wang-Krogdahl
+:PROPERTIES:
+:ANKI_DECK: WK-Ord
+:END:
+** Ord
+*** Mer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137747800
+:END:
+**** Front
+Ord
+
+[[file:ord/mer.png]]
+**** Back
+Mer
+*** Pek
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137748492
+:END:
+**** Front
+Ord
+
+[[file:ord/pek.png]]
+**** Back
+Pek
+*** RenRenn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137748959
+:END:
+**** Front
+Ord
+
+[[file:ord/ren-renn.png]]
+**** Back
+Ren / Renn
+*** Nær
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137749536
+:END:
+**** Front
+Ord
+
+[[file:ord/nær.png]]
+**** Back
+Nær
+*** Kjenn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137750116
+:END:
+**** Front
+Ord
+
+[[file:ord/kjenn.png]]
+**** Back
+Kjenn
+*** MeterMetter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137750547
+:END:
+**** Front
+Ord
+
+[[file:ord/meter.png]]
+**** Back
+Meter / Metter
+*** PeterPetter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137750996
+:END:
+**** Front
+Ord
+
+[[file:ord/peter.png]]
+**** Back
+Peter / Petter
+*** Pepper
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137751396
+:END:
+**** Front
+Ord
+
+[[file:ord/pepper.png]]
+**** Back
+Pepper
+*** Eter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137751940
+:END:
+**** Front
+Ord
+
+[[file:ord/eter.png]]
+**** Back
+Eter
+*** Ermer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137752411
+:END:
+**** Front
+Ord
+
+[[file:ord/ermer.png]]
+**** Back
+Ermer
+*** Æren
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137752858
+:END:
+**** Front
+Ord
+
+[[file:ord/æren.png]]
+**** Back
+Æren
+*** Te
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137753296
+:END:
+**** Front
+Ord
+
+[[file:ord/te.png]]
+**** Back
+Te
+*** Peke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137753889
+:END:
+**** Front
+Ord
+
+[[file:ord/peke.png]]
+**** Back
+Peke
+*** Teppe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137754361
+:END:
+**** Front
+Ord
+
+[[file:ord/teppe.png]]
+**** Back
+Teppe
+*** ReneRenne
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137754811
+:END:
+**** Front
+Ord
+
+[[file:ord/rene.png]]
+**** Back
+Rene / Renne
+*** Mette
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137755246
+:END:
+**** Front
+Ord
+
+[[file:ord/mette.png]]
+**** Back
+Mette
+*** Kjære
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137755955
+:END:
+**** Front
+Ord
+
+[[file:ord/kjære.png]]
+**** Back
+Kjære
+*** Temme
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137756415
+:END:
+**** Front
+Ord
+
+[[file:ord/temme.png]]
+**** Back
+Temme
+*** MorMår
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137756885
+:END:
+**** Front
+Ord
+
+[[file:ord/mor.png]]
+**** Back
+Mor / Mår
+*** RåkRokk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137757341
+:END:
+**** Front
+Ord
+
+[[file:ord/rokk.png]]
+**** Back
+Råk / Rokk
+*** Når
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137757958
+:END:
+**** Front
+Ord
+
+[[file:ord/når.png]]
+**** Back
+Når
+*** KåtKott
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137758373
+:END:
+**** Front
+Ord
+
+[[file:ord/kåt.png]]
+**** Back
+Kåt / Kott
+*** PoterPotter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137758838
+:END:
+**** Front
+Ord
+
+[[file:ord/poter.png]]
+**** Back
+Poter / Potter
+*** Poteter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137759414
+:END:
+**** Front
+Ord
+
+[[file:ord/poteter.png]]
+**** Back
+Poteter
+*** Motor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137759896
+:END:
+**** Front
+Ord
+
+[[file:ord/motor.png]]
+**** Back
+Motor
+*** ÅrOr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137760310
+:END:
+**** Front
+Ord
+
+[[file:ord/år.png]]
+**** Back
+År / Or
+*** Onn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137760835
+:END:
+**** Front
+Ord
+
+[[file:ord/onn.png]]
+**** Back
+Onn
+*** Orm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137761590
+:END:
+**** Front
+Ord
+
+[[file:ord/orm.png]]
+**** Back
+Orm
+*** ÅkerOker
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137762163
+:END:
+**** Front
+Ord
+
+[[file:ord/åker.png]]
+**** Back
+Åker / Oker
+*** Ormen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137762711
+:END:
+**** Front
+Ord
+
+[[file:ord/ormen.png]]
+**** Back
+Ormen
+*** ÅtteÅte
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137763189
+:END:
+**** Front
+Ord
+
+[[file:ord/åtte.png]]
+**** Back
+Åtte / Åte
+*** ToTå
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137763814
+:END:
+**** Front
+Ord
+
+[[file:ord/to.png]]
+**** Back
+To / Tå
+*** RoRå
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137764296
+:END:
+**** Front
+Ord
+
+[[file:ord/ro.png]]
+**** Back
+Ro / Rå
+*** Moro
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691137764711
+:END:
+**** Front
+Ord
+
+[[file:ord/moro.png]]
+**** Back
+Moro
