@@ -1006,13 +1006,432 @@ Ord
 [[file:ord/hankø.png]]
 **** Back
 Hankø
-*** a
+*** Rem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184427221
 :END:
 **** Front
 Ord
 
-[[file:ord/a.png]]
+[[file:ord/rem.png]]
 **** Back
-a
+Rem
+*** Varme
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184427838
+:END:
+**** Front
+Ord
+
+[[file:ord/varme.png]]
+**** Back
+Varme
+*** Verpe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184428268
+:END:
+**** Front
+Ord
+
+[[file:ord/verpe.png]]
+**** Back
+Verpe
+*** Knapt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184428738
+:END:
+**** Front
+Ord
+
+[[file:ord/knapt.png]]
+**** Back
+Knapt
+*** Kjært
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184429396
+:END:
+**** Front
+Ord
+
+[[file:ord/kjært.png]]
+**** Back
+Kjært
+*** Kjent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184429838
+:END:
+**** Front
+Ord
+
+[[file:ord/kjent.png]]
+**** Back
+Kjent
+*** Pent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184430296
+:END:
+**** Front
+Ord
+
+[[file:ord/pent.png]]
+**** Back
+Pent
+*** Tokt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184430763
+:END:
+**** Front
+Ord
+
+[[file:ord/tokt.png]]
+**** Back
+Tokt
+*** Ert
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184431367
+:END:
+**** Front
+Ord
+
+[[file:ord/ert.png]]
+**** Back
+Ert
+*** Rente
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184431842
+:END:
+**** Front
+Ord
+
+[[file:ord/rente.png]]
+**** Back
+Rente
+*** Renten
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184432288
+:END:
+**** Front
+Ord
+
+[[file:ord/renten.png]]
+**** Back
+Renten
+*** Renter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184432772
+:END:
+**** Front
+Ord
+
+[[file:ord/renter.png]]
+**** Back
+Renter
+*** Pakten
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184433396
+:END:
+**** Front
+Ord
+
+[[file:ord/pakten.png]]
+**** Back
+Pakten
+*** Karten
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184433838
+:END:
+**** Front
+Ord
+
+[[file:ord/karten.png]]
+**** Back
+Karten
+*** Agenter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184434298
+:END:
+**** Front
+Ord
+
+[[file:ord/agenter.png]]
+**** Back
+Agenter
+*** Tomter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184434747
+:END:
+**** Front
+Ord
+
+[[file:ord/tomter.png]]
+**** Back
+Tomter
+*** Dele
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184435324
+:END:
+**** Front
+Ord
+
+[[file:ord/dele.png]]
+**** Back
+Dele
+*** Elv
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184435763
+:END:
+**** Front
+Ord
+
+[[file:ord/elv.png]]
+**** Back
+Elv
+*** Elde
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184436224
+:END:
+**** Front
+Ord
+
+[[file:ord/elde.png]]
+**** Back
+Elde
+*** Elegant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184436624
+:END:
+**** Front
+Ord
+
+[[file:ord/elegant.png]]
+**** Back
+Elegant
+*** Allmenn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184437196
+:END:
+**** Front
+Ord
+
+[[file:ord/allmenn.png]]
+**** Back
+Allmenn
+*** Alvor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184437646
+:END:
+**** Front
+Ord
+
+[[file:ord/alvor.png]]
+**** Back
+Alvor
+*** Male
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184438074
+:END:
+**** Front
+Ord
+
+[[file:ord/male.png]]
+**** Back
+Male
+*** Halvere
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184438597
+:END:
+**** Front
+Ord
+
+[[file:ord/halvere.png]]
+**** Back
+Halvere
+*** Leke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184439149
+:END:
+**** Front
+Ord
+
+[[file:ord/leke.png]]
+**** Back
+Leke
+*** Lære
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184439621
+:END:
+**** Front
+Ord
+
+[[file:ord/lære.png]]
+**** Back
+Lære
+*** Leve
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184440088
+:END:
+**** Front
+Ord
+
+[[file:ord/leve.png]]
+**** Back
+Leve
+*** Lam
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184440521
+:END:
+**** Front
+Ord
+
+[[file:ord/lam.png]]
+**** Back
+Lam
+*** Lån
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184441121
+:END:
+**** Front
+Ord
+
+[[file:ord/lån.png]]
+**** Back
+Lån
+*** Løk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184441538
+:END:
+**** Front
+Ord
+
+[[file:ord/løk.png]]
+**** Back
+Løk
+*** Lønn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184441946
+:END:
+**** Front
+Ord
+
+[[file:ord/lønn.png]]
+**** Back
+Lønn
+*** Dal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184442522
+:END:
+**** Front
+Ord
+
+[[file:ord/dal.png]]
+**** Back
+Dal
+*** Mel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184442946
+:END:
+**** Front
+Ord
+
+[[file:ord/mel.png]]
+**** Back
+Mel
+*** Tall
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184443374
+:END:
+**** Front
+Ord
+
+[[file:ord/tall.png]]
+**** Back
+Tall
+*** Pol
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184443796
+:END:
+**** Front
+Ord
+
+[[file:ord/pol.png]]
+**** Back
+Pol
+*** Voll
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184444371
+:END:
+**** Front
+Ord
+
+[[file:ord/voll.png]]
+**** Back
+Voll
+*** Toll
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184444840
+:END:
+**** Front
+Ord
+
+[[file:ord/toll.png]]
+**** Back
+Toll
+*** Kål
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184445250
+:END:
+**** Front
+Ord
+
+[[file:ord/kål.png]]
+**** Back
+Kål
+*** Øl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1691184445674
+:END:
+**** Front
+Ord
+
+[[file:ord/øl.png]]
+**** Back
+Øl
