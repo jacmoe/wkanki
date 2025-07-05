@@ -1930,3 +1930,13 @@ Ord
 [[file:ord/malerne.png]]
 **** Back
 Malerne
+*** a
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Ord
+
+[[file:ord/a.png]]
+**** Back
+a
